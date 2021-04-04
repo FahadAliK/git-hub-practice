@@ -1,4 +1,0 @@
-SONG - ARTIST
-==============
-song1 - artist 1
-song2 - artist 2
