@@ -1,4 +1,0 @@
-chapterrr 1 
-content of chapterrr 1.
-chapterrr 1 completed.
-something modified. 

@@ -1,5 +1,0 @@
-Character 1: some info about character 1.
-Character 2: some info about character 2.
-Character 3: some info about character 3.
-some modification.
-some other modifications.
